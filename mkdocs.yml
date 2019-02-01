@@ -1,0 +1,25 @@
+site_name: py.101.camp
+site_description: 蠎营 Python 入门班
+site_author: zoomquiet+101@gmail.com
+site_url: http://py.101.camp/
+repo_url: https://gitlab.com/pythonicamp/py.101.camp/
+repo_name: gitlab
+
+theme:
+    name: bootstrap386
+    custom_dir: _theme/bootstrap386
+    include_sidebar: false
+
+plugins: []
+
+nav:
+    - Home: index.md
+    - '过程': 
+      - '筹备': process/prepare.md
+    - '故事': 
+      - '起初': story/longago.md
+    - '有关': 
+      - '关于': about/about.md
+      - '许可': about/license.md
+
+

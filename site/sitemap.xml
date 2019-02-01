@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+     <loc>http://py.101.camp/</loc>
+     <lastmod>2019-02-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://py.101.camp/process/prepare/</loc>
+     <lastmod>2019-02-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://py.101.camp/story/longago/</loc>
+     <lastmod>2019-02-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://py.101.camp/about/about/</loc>
+     <lastmod>2019-02-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://py.101.camp/about/license/</loc>
+     <lastmod>2019-02-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
